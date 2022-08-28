@@ -1,1 +1,4 @@
 # Ai-emoji-detector
+AI powered emoji detector can be used by the companies to increase engagement with their customers. They can create personalized content for their users, which will help them in building a strong relationship with their customers. The emoji detector will help you in analyzing your audience and their preferences so that you can deliver the right content. You can also use the technology to provide customer support to your customers by providing customized answers. 
+
+One of the most important aspects of AI Powered Emoji Detector is that it will help you in detecting any kind of emotions and expressions on your face OR hand gestures from web camera. It will help in detecting whether you are happy, sad or angry and so on. This technology is also used for predicting different kinds of expressions like happiness, fear, sadness etc. 
